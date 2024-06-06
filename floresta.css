@@ -1,0 +1,32 @@
+body {
+    width: 100%;
+    background-image: url(img/fundo-floresta.jpg);
+    background-attachment: fixed;
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+div {
+    background-color: white;
+    margin: 0 auto;
+    width: 930px;
+    text-align: center;
+    h1 {
+        padding-top: 70px;
+    }
+    h3 {
+        font-weight: normal;
+    }
+    img {
+        width: 94%;
+    }
+    p {
+        text-align: justify;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+.p3 {
+    padding-bottom: 40px;
+}
